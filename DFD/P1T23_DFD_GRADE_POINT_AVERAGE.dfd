@@ -1,0 +1,106 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+238
+"SOFTGRADEPOINTAVERAGE V1.0 - /MAKER:. Edison Ramírez Suarez. / DESCRIPTION:The algorithm calculates the average grade for the course with 3 grades per student. 1st grade is 20% of the average grade; 2nd grade is 30% and 3rd grade is 50%"
+4
+1
+32
+"Input the number of students: "
+5
+1
+8
+v_numstu
+7
+0
+1
+12
+v_numstu < 0
+7
+0
+1
+13
+v_numstu  = 0
+6
+2
+9
+v_average
+1
+0
+15
+v_courseaverage
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+8
+v_numstu
+1
+1
+1
+4
+1
+42
+"Type the grades of Student Number ",i,":"
+5
+1
+26
+v_grade1,v_grade2,v_grade3
+7
+0
+1
+44
+v_grade1 < 0 OR v_grade2 < 0 OR v_grade3 < 0
+6
+1
+9
+v_average
+56
+v_average+((v_grade1*0.2)+(v_grade2*0.3)+(v_grade3*0.5))
+13
+4
+1
+64
+"The grades of the student ",i," isn't valid. Please, try again"
+6
+1
+1
+i
+3
+i-1
+13
+10
+6
+1
+15
+v_courseaverage
+18
+v_average/v_numstu
+4
+1
+53
+"The average grade of the curse is: ",v_courseaverage
+13
+4
+1
+47
+"Congratulations; the curse have 0 students :b"
+13
+13
+4
+1
+43
+"ERR: The number of students should be > 0"
+13
+1
