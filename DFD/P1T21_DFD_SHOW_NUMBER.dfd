@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+101
+"SOFTSHOWNUMBER V 1.0  / MAKER:. Edison Ramírez Suarez. / DESCRIPTION: this software show N numbers "
+4
+1
+24
+"Type the total numbers"
+5
+1
+11
+v_total_num
+7
+0
+1
+16
+v_total_num <= 0
+8
+1
+1
+i
+1
+1
+1
+1
+11
+v_total_num
+1
+1
+1
+4
+1
+26
+"The number cycle is: ", i
+10
+13
+4
+1
+42
+"ERR: This number should be grater than 0"
+13
+1

@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+131
+"SOFTLARGEST NUMBER V 1.0 / MAKER:. Edison Ramírez Suarez. / DESCRIPTION: this software identifies the largest number out of three"
+4
+1
+34
+"Please write three numbers below"
+5
+1
+2
+N1
+5
+1
+2
+N2
+5
+1
+2
+N3
+7
+0
+1
+19
+N1 = N2 AND N1 = N3
+7
+0
+1
+19
+N1 > N2 AND N1 > N3
+7
+0
+1
+19
+N2 > N1 AND N2 > N3
+4
+1
+28
+N3, " is the largest number"
+13
+4
+1
+28
+N2, " is the largest number"
+13
+13
+4
+1
+28
+N1, " is the largest number"
+13
+13
+4
+1
+23
+"All numbers are equal"
+13
+1
